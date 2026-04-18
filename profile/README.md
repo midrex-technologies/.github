@@ -8,17 +8,30 @@ Midrex Technologies Digital Solutions & Services supports the digital systems, s
 
 Midrex Technologies is the global leader in direct reduction ironmaking technology, and DS&S extends that foundation with digital solutions that improve visibility, control, and operational support.
 
+## Our purpose
+
+To love and serve others.
+
+This purpose reflects a people-first approach to the work we do and to the impact our technology has in the workplace and the world.
+
+## Our mission and vision
+
+Creating the sustainable future of iron and steel.
+
 ## What we do
 
-- Support digital systems, software, and engineering assets that strengthen Midrex operations and delivery
-- Extend Midrex's industrial and process expertise with practical digital solutions that improve visibility, control, and support
-- Contribute to solutions that align with Midrex's focus on innovation, long-term client success, and a more sustainable iron and steel industry
+- Support digital systems, software, and engineering assets that help Midrex deliver industrial technology
+- Build practical digital solutions that improve visibility, control, collaboration, and operational support
+- Contribute to work that advances sustainable iron and steel production and long-term customer success
 
 ## How we work
 
-- Work with integrity, teamwork, and a people-first mindset in how we build and support solutions
-- Favor innovation, quality, and maintainable systems that can deliver long-term value
-- Use shared collaboration and review practices to improve consistency, visibility, and responsible delivery
+- **Integrity** — We act honestly and ethically for the good of others.
+- **Innovation** — We think creatively and act boldly in service of our mission and vision.
+- **Teamwork** — We stay engaged, respect and trust one another, and share credit for achievements.
+- **Safety** — We prioritize the safety of our team and customers in every action we undertake.
+- **Commitment** — We are dedicated to the success of our customers, the well-being of our teammates, and our mission and vision.
+- **Quality** — We give our best in every situation and hold our work and service to a high standard.
 
 ## Learn more
 
