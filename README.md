@@ -17,4 +17,4 @@ This repository contains the public GitHub organization profile content for Midr
 
 ## Contact
 
-- itoperations@midrex.com
+- [itoperations@midrex.com](mailto:itoperations@midrex.com)
