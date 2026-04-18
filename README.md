@@ -1,19 +1,33 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/77120bd0-86c5-4dd8-9e31-ae4df294501d" alt="Midrex Digital Solutions & Services (DS&S)" width="700">
-</p>
+# midrex-technologies/.github
 
-# Midrex Technologies Digital Solutions & Services
+This repository manages GitHub organization profile content for Midrex Technologies Digital Solutions & Services.
 
-This GitHub organization is used by the Midrex Technologies Digital Solutions & Services Department as a shared space for collaboration.
+## Files
 
-It provides a central place for teams to work together, manage changes, and support digital initiatives in a consistent and organized way.
+- `profile/README.md` — public organization profile shown to visitors on the GitHub organization page
 
-## Purpose
+## Content model
 
-- Support collaboration across the Midrex DS&S Department
-- Provide a shared environment for team-based work and version control
-- Enable coordinated delivery of digital solutions and services
+### Public profile
 
-## Collaboration
+The public profile should stay concise, external-safe, and focused on:
 
-This organization is intended to help DS&S teams collaborate effectively through shared workflows, visibility, and ongoing contribution across department-led efforts.
+- who Midrex DS&S is
+- what kinds of work the organization supports
+- how the organization approaches collaboration
+- public-facing links or featured repositories, if available
+
+It should not include internal processes, onboarding instructions, team-specific details, or private links.
+
+### Member-only profile
+
+The member-only profile should live in the private `midrex-technologies/.github-private` repository at `profile/README.md`.
+
+That document should cover:
+
+- member orientation and getting started
+- internal links and standards
+- support and access paths
+- repository and contribution expectations
+
+It should not contain secrets or operational detail that belongs in linked internal systems.
