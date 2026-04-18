@@ -4,28 +4,32 @@
 
 # Midrex Technologies Digital Solutions & Services
 
-Midrex Technologies Digital Solutions & Services uses this GitHub organization as a shared space to design, deliver, and support digital solutions across the business.
+Midrex Technologies Digital Solutions & Services supports the digital systems, software, and collaboration practices that help Midrex deliver industrial technology for the iron and steel industry.
 
-We focus on practical engineering collaboration, clear ownership, and sustainable delivery for internal platforms, applications, and supporting services.
+Midrex Technologies is the global leader in direct reduction ironmaking technology, and DS&S extends that foundation with digital solutions that improve visibility, control, and operational support.
 
 ## What we do
 
-- Build and maintain digital solutions that support business and operational needs
-- Enable collaboration across teams through shared repositories, workflows, and standards
-- Improve delivery consistency with version control, review practices, and reusable patterns
+- Build and maintain software, automation-adjacent tooling, and shared engineering assets
+- Support digital delivery for internal platforms, process improvement, and operational services
+- Create reusable workflows and standards that help teams ship reliable solutions consistently
 
 ## How we work
 
-- Collaborate openly across teams and disciplines
-- Favor maintainable, well-documented solutions
-- Use shared workflows to improve visibility, quality, and consistency
+- Bring process expertise and software delivery together to solve practical problems
+- Favor maintainable, well-documented systems that can be supported over time
+- Use shared review and collaboration practices to improve quality, visibility, and consistency
+
+## Learn more
+
+- [Midrex Technologies](https://www.midrex.com/)
+- [About Midrex](https://www.midrex.com/about-midrex/)
+- [Careers at Midrex](https://www.midrex.com/about/careers/)
 
 ## Explore our work
 
-This organization is the home for repositories, shared assets, and supporting materials used by Midrex DS&S teams.
-
-As public repositories become available, featured projects and additional links can be added here.
+This organization is the public home for Midrex DS&S repositories and shared engineering assets on GitHub.
 
 ## Contact
 
-For general questions about this organization or its repositories, contact the Midrex DS&S team through the appropriate company channels.
+For general company information, visit [midrex.com](https://www.midrex.com/). For career opportunities, visit the [Midrex careers page](https://www.midrex.com/about/careers/).
