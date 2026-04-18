@@ -37,7 +37,6 @@ Creating the sustainable future of iron and steel.
 
 - [Midrex Technologies](https://www.midrex.com/)
 - [About Midrex](https://www.midrex.com/about-midrex/)
-- [Careers at Midrex](https://www.midrex.com/careers/)
 
 ## Explore our work
 
@@ -45,4 +44,4 @@ This organization is the public home for Midrex DS&S repositories and shared eng
 
 ## Contact
 
-For general company information, visit [midrex.com](https://www.midrex.com/). For career opportunities, visit the [Midrex careers page](https://www.midrex.com/careers/).
+For general company information, visit [midrex.com](https://www.midrex.com/). For IT operations inquiries, contact [itoperations@midrex.com](mailto:itoperations@midrex.com).

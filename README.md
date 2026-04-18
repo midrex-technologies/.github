@@ -14,4 +14,7 @@ This repository contains the public GitHub organization profile content for Midr
 
 - https://www.midrex.com/
 - https://www.midrex.com/about-midrex/
-- https://www.midrex.com/careers/
+
+## Contact
+
+- itoperations@midrex.com
