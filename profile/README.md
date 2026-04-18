@@ -8,13 +8,13 @@ Midrex Technologies Digital Solutions & Services supports the digital systems, s
 
 Midrex Technologies is the global leader in direct reduction ironmaking technology, and DS&S extends that foundation with digital solutions that improve visibility, control, and operational support.
 
-## Our purpose
+## Our Purpose
 
 To love and serve others.
 
 This purpose reflects a people-first approach to the work we do and to the impact our technology has in the workplace and the world.
 
-## Our mission and vision
+## Our Mission and Vision
 
 Creating the sustainable future of iron and steel.
 
@@ -24,7 +24,7 @@ Creating the sustainable future of iron and steel.
 - Build practical digital solutions that improve visibility, control, collaboration, and operational support
 - Contribute to work that advances sustainable iron and steel production and long-term customer success
 
-## How we work
+## Our Values
 
 - **Integrity** — We act honestly and ethically for the good of others.
 - **Innovation** — We think creatively and act boldly in service of our mission and vision.
