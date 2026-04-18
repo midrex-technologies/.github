@@ -10,21 +10,21 @@ Midrex Technologies is the global leader in direct reduction ironmaking technolo
 
 ## What we do
 
-- Build and maintain software, automation-adjacent tooling, and shared engineering assets
-- Support digital delivery for internal platforms, process improvement, and operational services
-- Create reusable workflows and standards that help teams ship reliable solutions consistently
+- Support digital systems, software, and engineering assets that strengthen Midrex operations and delivery
+- Extend Midrex's industrial and process expertise with practical digital solutions that improve visibility, control, and support
+- Contribute to solutions that align with Midrex's focus on innovation, long-term client success, and a more sustainable iron and steel industry
 
 ## How we work
 
-- Bring process expertise and software delivery together to solve practical problems
-- Favor maintainable, well-documented systems that can be supported over time
-- Use shared review and collaboration practices to improve quality, visibility, and consistency
+- Work with integrity, teamwork, and a people-first mindset in how we build and support solutions
+- Favor innovation, quality, and maintainable systems that can deliver long-term value
+- Use shared collaboration and review practices to improve consistency, visibility, and responsible delivery
 
 ## Learn more
 
 - [Midrex Technologies](https://www.midrex.com/)
 - [About Midrex](https://www.midrex.com/about-midrex/)
-- [Careers at Midrex](https://www.midrex.com/about/careers/)
+- [Careers at Midrex](https://www.midrex.com/careers/)
 
 ## Explore our work
 
@@ -32,4 +32,4 @@ This organization is the public home for Midrex DS&S repositories and shared eng
 
 ## Contact
 
-For general company information, visit [midrex.com](https://www.midrex.com/). For career opportunities, visit the [Midrex careers page](https://www.midrex.com/about/careers/).
+For general company information, visit [midrex.com](https://www.midrex.com/). For career opportunities, visit the [Midrex careers page](https://www.midrex.com/careers/).
