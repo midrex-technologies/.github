@@ -40,7 +40,7 @@ Creating the sustainable future of iron and steel.
 
 ## Explore our work
 
-This organization is the public home for Midrex DS&S repositories and shared engineering assets on GitHub.
+This organization is the public home for Midrex DS&S.
 
 ## Contact
 
